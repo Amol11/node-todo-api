@@ -14,8 +14,12 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
+    "bson": "^1.0.5",
+    "debug": "^2.6.9",
     "express": "^4.14.0",
+    "fresh": "^0.5.2",
     "lodash": "^4.17.12",
+    "mime": "^1.4.1",
     "mongodb": "^2.2.5"
   }
 }
